@@ -1,4 +1,4 @@
-package com.hust18.day0117.p006;
+package com.hust18.day0118.p006;
 
 import java.util.Scanner;
 
