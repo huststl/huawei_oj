@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * huawei_oj
  * Created by huststl on 2018/1/19 9:57
+ * 句子逆序
  */
 public class MainDemo013 {
     public static void main(String[] args){
